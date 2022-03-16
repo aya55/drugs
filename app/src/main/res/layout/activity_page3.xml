@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".page3">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+         android:text="أهم 6 نصائح قبل اختيار دكتور علاج ادمان:"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:textColor="#1d3557"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="17dp"
+        android:textColor="#000"
+android:text="قبل البدء في رحلة العلاج لا بد من اختيار الدكتور الجيد أولا، وإليك أهم النصائح المساعدة على هذا"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+android:text=" من الأفضل اختيار الطبيب الذي يعطي وقتا كافيا لتشخيص الحالة وتقدير تأثير الإدمان على عقل المدمن وجسده."
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="يفضل كذلك اختيار طبيب على قدر كافي من المهارة العملية والخبرة العلمية."
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+android:text="أن يمتلك أفضل البرامج وأحدثها للمساعدة على التعامل مع كافة الوافدين إليه، باختلاف المادة المخدرة وعدد سنوات التعاطي."
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="أن يحافظ على السرية التامة في العلاج دون إفشاء أسرار المرضى وذويهم.               "
+        />
+    <Button
+        android:id="@+id/next2"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/background"
+        android:text="التالي"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+
+
+        />
+
+
+</LinearLayout>

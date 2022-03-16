@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".page5">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+android:text="أماكن المستشفيات"
+
+android:layout_gravity="right"
+        android:padding="3dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="#1d3557"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة الجيزة"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة القاهرة
+"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة الإسكندرية"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة الإسماعيلية"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة بورسعيد"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة الشرقية"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة الغربية"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة الدقهلية"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="right"
+        android:padding="2dp"
+        android:text="مستشفيات محافظة المنوفية"
+        />
+    <Button
+        android:id="@+id/next3"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/background"
+        android:text="انهاء"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+
+
+        />
+
+
+</LinearLayout>
